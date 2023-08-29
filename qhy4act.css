@@ -1,0 +1,50 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * paralucent:
+ *   - http://typekit.com/eulas/00000000000000003b9ad9d0
+ *   - http://typekit.com/eulas/00000000000000003b9ad9d8
+ *   - http://typekit.com/eulas/00000000000000003b9ad9e8
+ *   - http://typekit.com/eulas/00000000000000003b9ad9f4
+ *   - http://typekit.com/eulas/00000000000000003b9ada10
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-10-19 21:28:02 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"paralucent";
+src:url("af/747436/00000000000000003b9ad9d0/27/l") format("woff2"),url("af/747436/00000000000000003b9ad9d0/27/d") format("woff"),url("af/747436/00000000000000003b9ad9d0/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent";
+src:url("af/854e12/00000000000000003b9ad9d8/27/l") format("woff2"),url("af/854e12/00000000000000003b9ad9d8/27/d") format("woff"),url("af/854e12/00000000000000003b9ad9d8/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent";
+src:url("af/ed2089/00000000000000003b9ad9e8/27/l") format("woff2"),url("af/ed2089/00000000000000003b9ad9e8/27/d") format("woff"),url("af/ed2089/00000000000000003b9ad9e8/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent";
+src:url("af/f09897/00000000000000003b9ad9f4/27/l") format("woff2"),url("af/f09897/00000000000000003b9ad9f4/27/d") format("woff"),url("af/f09897/00000000000000003b9ad9f4/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"paralucent";
+src:url("af/26af32/00000000000000003b9ada10/27/l") format("woff2"),url("af/26af32/00000000000000003b9ada10/27/d") format("woff"),url("af/26af32/00000000000000003b9ada10/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-paralucent { font-family: "paralucent",sans-serif; }
