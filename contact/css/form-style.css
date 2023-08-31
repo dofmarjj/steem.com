@@ -160,9 +160,10 @@ textarea.form-input {
 }
 
 .form-button {
+  max-width: fit-content;
   border: none;
   outline: none;
-  padding: 20px 60px;
+  padding: 20px 60px !important;
   font-weight: bold;
   text-align: center;
   text-transform: uppercase;

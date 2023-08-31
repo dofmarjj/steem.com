@@ -81,7 +81,7 @@ html body .thank-you-wrapper .container > .row {
   position: relative;
   padding-left: 55px;
 }
-.arrow-icon::before {
+/* .arrow-icon::before {
   position: absolute;
   left: 25px;
   top: 20px;
@@ -105,7 +105,7 @@ html body .thank-you-wrapper .container > .row {
   position: absolute;
   left: 25px;
   top: 25px;
-}
+} */
 .thank-you-wrapper ul.footer-nav li a,
 .thank-you-wrapper ul.footer-nav li a:hover {
   color: #0a568a;
@@ -211,6 +211,11 @@ ul.footer-nav li + li::before {
   padding-top: 13px;
   padding-bottom: 13px;
   padding-right: 25px;
+}
+
+@media screen and (max-width: 950px) {
+  .btn {
+  }
 }
 /* .btn-primary::before {
   position: absolute;
