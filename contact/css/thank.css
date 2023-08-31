@@ -214,7 +214,9 @@ ul.footer-nav li + li::before {
 }
 
 @media screen and (max-width: 950px) {
-  .btn {
+  .thank-you-page-content .btn {
+    font-size: 12px;
+    padding: 10px;
   }
 }
 /* .btn-primary::before {
